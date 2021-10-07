@@ -1,0 +1,120 @@
+2021-04-10 22:07:11 - INFO - Training arguments:
+{
+    "seed": 2,
+    "task": "kbqa_name_expanded",
+    "model_name_or_path": "./bert-base-uncased/",
+    "continue_training_path": null,
+    "model_save_path": "./output/bert_newdata_headtail_webred_mix_seed2",
+    "force_del": true,
+    "tensorboard_log_dir": null,
+    "data_path": "./data/webqsp_name_expanded",
+    "train_filename": "train.json",
+    "dev_filename": "dev.json",
+    "test_filename": "test.json",
+    "use_apex_amp": true,
+    "apex_amp_opt_level": "O1",
+    "dropout": 0.2,
+    "threshold": null,
+    "entity_start_token": null,
+    "entity_end_token": null,
+    "head_entity_start_token": "[start of head entity]",
+    "head_entity_end_token": "[end of head entity]",
+    "tail_entity_start_token": "[start of tail entity]",
+    "tail_entity_end_token": "[end of tail entity]",
+    "unknown_entity_token": "[unknown entity]",
+    "separate_token": "[path separator]",
+    "annotate_self_token": null,
+    "use_aggregate": false,
+    "use_prompt": false,
+    "mix_webred_data": true,
+    "batch_size": 128,
+    "num_epochs": 3,
+    "learning_rate": 2e-05,
+    "evaluation_steps": 1000,
+    "max_seq_length": 128,
+    "gradient_clip": 1.0,
+    "patience": null,
+    "metric": "f1"
+}
+2021-04-10 22:07:11 - INFO - Run experiments with random seed: 2
+2021-04-10 22:07:11 - INFO - Saved training command to file: ./output/bert_newdata_headtail_webred_mix_seed2/command.txt
+2021-04-10 22:07:11 - INFO - Saved training arguments to file: ./output/bert_newdata_headtail_webred_mix_seed2/args.json
+2021-04-10 22:07:42 - INFO - Reading train split from ./data/webqsp_name_expanded/train.json, number of samples: 2848
+2021-04-10 22:08:10 - INFO - Reading dev split from ./data/webqsp_name_expanded/dev.json, number of samples: 250
+2021-04-10 22:08:27 - INFO - Reading test split from ./data/webqsp_name_expanded/test.json, number of samples: 1639
+2021-04-10 22:08:47 - INFO - Start training, number of epochs: 3
+2021-04-10 22:08:47 - INFO - Training start for epoch 0
+2021-04-10 22:20:27 - INFO - Evaluating on dev dataset at step 999 in epoch 0 (global step: 1000)...
+2021-04-10 22:27:13 - INFO - Results: f1 = 0.361656 (threshold = 0.039000), hits@1 = 0.495968
+2021-04-10 22:27:13 - INFO - Best performance achieved, save model to ./output/bert_newdata_headtail_webred_mix_seed2/pytorch_model.bin
+2021-04-10 22:39:11 - INFO - Evaluating on dev dataset at step 1999 in epoch 0 (global step: 2000)...
+2021-04-10 22:46:00 - INFO - Results: f1 = 0.470062 (threshold = 0.109000), hits@1 = 0.592742
+2021-04-10 22:46:00 - INFO - Best performance achieved, save model to ./output/bert_newdata_headtail_webred_mix_seed2/pytorch_model.bin
+2021-04-10 22:59:47 - INFO - Evaluating on dev dataset at step 2999 in epoch 0 (global step: 3000)...
+2021-04-10 23:06:39 - INFO - Results: f1 = 0.488656 (threshold = 0.062000), hits@1 = 0.612903
+2021-04-10 23:06:39 - INFO - Best performance achieved, save model to ./output/bert_newdata_headtail_webred_mix_seed2/pytorch_model.bin
+2021-04-10 23:21:58 - INFO - Evaluating on dev dataset at step 3999 in epoch 0 (global step: 4000)...
+2021-04-10 23:28:48 - INFO - Results: f1 = 0.497610 (threshold = 0.042000), hits@1 = 0.600806
+2021-04-10 23:28:48 - INFO - Best performance achieved, save model to ./output/bert_newdata_headtail_webred_mix_seed2/pytorch_model.bin
+2021-04-10 23:43:51 - INFO - Evaluating on dev dataset at step 4999 in epoch 0 (global step: 5000)...
+2021-04-10 23:50:41 - INFO - Results: f1 = 0.526626 (threshold = 0.087000), hits@1 = 0.641129
+2021-04-10 23:50:41 - INFO - Best performance achieved, save model to ./output/bert_newdata_headtail_webred_mix_seed2/pytorch_model.bin
+2021-04-11 00:04:08 - INFO - Evaluating on dev dataset at step 5999 in epoch 0 (global step: 6000)...
+2021-04-11 00:10:51 - INFO - Results: f1 = 0.555684 (threshold = 0.069000), hits@1 = 0.665323
+2021-04-11 00:10:51 - INFO - Best performance achieved, save model to ./output/bert_newdata_headtail_webred_mix_seed2/pytorch_model.bin
+2021-04-11 00:26:26 - INFO - Evaluating on dev dataset at step 6999 in epoch 0 (global step: 7000)...
+2021-04-11 00:33:17 - INFO - Results: f1 = 0.580763 (threshold = 0.145000), hits@1 = 0.693548
+2021-04-11 00:33:17 - INFO - Best performance achieved, save model to ./output/bert_newdata_headtail_webred_mix_seed2/pytorch_model.bin
+2021-04-11 00:47:41 - INFO - Evaluating on dev dataset at step 7999 in epoch 0 (global step: 8000)...
+2021-04-11 00:54:33 - INFO - Results: f1 = 0.559011 (threshold = 0.111000), hits@1 = 0.677419
+2021-04-11 01:06:07 - INFO - Evaluating on dev dataset at step 8999 in epoch 0 (global step: 9000)...
+2021-04-11 01:12:47 - INFO - Results: f1 = 0.564198 (threshold = 0.183000), hits@1 = 0.701613
+2021-04-11 01:17:18 - INFO - Evaluating on dev dataset at step 9382 in epoch 0 (global step: 9383)...
+2021-04-11 01:24:13 - INFO - Results: f1 = 0.591625 (threshold = 0.030000), hits@1 = 0.685484
+2021-04-11 01:24:13 - INFO - Best performance achieved, save model to ./output/bert_newdata_headtail_webred_mix_seed2/pytorch_model.bin
+2021-04-11 01:27:35 - INFO - Training start for epoch 1
+2021-04-11 01:39:21 - INFO - Evaluating on dev dataset at step 999 in epoch 1 (global step: 10383)...
+2021-04-11 01:46:11 - INFO - Results: f1 = 0.609835 (threshold = 0.082000), hits@1 = 0.697581
+2021-04-11 01:46:11 - INFO - Best performance achieved, save model to ./output/bert_newdata_headtail_webred_mix_seed2/pytorch_model.bin
+2021-04-11 02:01:19 - INFO - Evaluating on dev dataset at step 1999 in epoch 1 (global step: 11383)...
+2021-04-11 02:08:13 - INFO - Results: f1 = 0.604775 (threshold = 0.154000), hits@1 = 0.701613
+2021-04-11 02:20:04 - INFO - Evaluating on dev dataset at step 2999 in epoch 1 (global step: 12383)...
+2021-04-11 02:26:52 - INFO - Results: f1 = 0.609218 (threshold = 0.056000), hits@1 = 0.705645
+2021-04-11 02:38:38 - INFO - Evaluating on dev dataset at step 3999 in epoch 1 (global step: 13383)...
+2021-04-11 02:45:28 - INFO - Results: f1 = 0.572378 (threshold = 0.163000), hits@1 = 0.689516
+2021-04-11 02:57:09 - INFO - Evaluating on dev dataset at step 4999 in epoch 1 (global step: 14383)...
+2021-04-11 03:03:57 - INFO - Results: f1 = 0.627613 (threshold = 0.229000), hits@1 = 0.673387
+2021-04-11 03:03:57 - INFO - Best performance achieved, save model to ./output/bert_newdata_headtail_webred_mix_seed2/pytorch_model.bin
+2021-04-11 03:18:23 - INFO - Evaluating on dev dataset at step 5999 in epoch 1 (global step: 15383)...
+2021-04-11 03:25:10 - INFO - Results: f1 = 0.588970 (threshold = 0.083000), hits@1 = 0.685484
+2021-04-11 03:36:47 - INFO - Evaluating on dev dataset at step 6999 in epoch 1 (global step: 16383)...
+2021-04-11 03:43:37 - INFO - Results: f1 = 0.604863 (threshold = 0.096000), hits@1 = 0.705645
+2021-04-11 03:55:21 - INFO - Evaluating on dev dataset at step 7999 in epoch 1 (global step: 17383)...
+2021-04-11 04:02:12 - INFO - Results: f1 = 0.597483 (threshold = 0.102000), hits@1 = 0.717742
+2021-04-11 04:13:57 - INFO - Evaluating on dev dataset at step 8999 in epoch 1 (global step: 18383)...
+2021-04-11 04:20:50 - INFO - Results: f1 = 0.603494 (threshold = 0.132000), hits@1 = 0.725806
+2021-04-11 04:25:17 - INFO - Evaluating on dev dataset at step 9382 in epoch 1 (global step: 18766)...
+2021-04-11 04:32:07 - INFO - Results: f1 = 0.618128 (threshold = 0.086000), hits@1 = 0.709677
+2021-04-11 04:32:07 - INFO - Training start for epoch 2
+2021-04-11 04:43:49 - INFO - Evaluating on dev dataset at step 999 in epoch 2 (global step: 19766)...
+2021-04-11 04:50:39 - INFO - Results: f1 = 0.593330 (threshold = 0.058000), hits@1 = 0.717742
+2021-04-11 05:02:19 - INFO - Evaluating on dev dataset at step 1999 in epoch 2 (global step: 20766)...
+2021-04-11 05:09:09 - INFO - Results: f1 = 0.613655 (threshold = 0.121000), hits@1 = 0.685484
+2021-04-11 05:20:56 - INFO - Evaluating on dev dataset at step 2999 in epoch 2 (global step: 21766)...
+2021-04-11 05:27:44 - INFO - Results: f1 = 0.617661 (threshold = 0.067000), hits@1 = 0.713710
+2021-04-11 05:39:22 - INFO - Evaluating on dev dataset at step 3999 in epoch 2 (global step: 22766)...
+2021-04-11 05:46:11 - INFO - Results: f1 = 0.605788 (threshold = 0.130000), hits@1 = 0.709677
+2021-04-11 05:57:56 - INFO - Evaluating on dev dataset at step 4999 in epoch 2 (global step: 23766)...
+2021-04-11 06:04:49 - INFO - Results: f1 = 0.625044 (threshold = 0.236000), hits@1 = 0.729839
+2021-04-11 06:16:32 - INFO - Evaluating on dev dataset at step 5999 in epoch 2 (global step: 24766)...
+2021-04-11 06:23:27 - INFO - Results: f1 = 0.610949 (threshold = 0.259000), hits@1 = 0.709677
+2021-04-11 06:35:10 - INFO - Evaluating on dev dataset at step 6999 in epoch 2 (global step: 25766)...
+2021-04-11 06:42:01 - INFO - Results: f1 = 0.621628 (threshold = 0.068000), hits@1 = 0.729839
+2021-04-11 06:53:47 - INFO - Evaluating on dev dataset at step 7999 in epoch 2 (global step: 26766)...
+2021-04-11 07:00:39 - INFO - Results: f1 = 0.604707 (threshold = 0.168000), hits@1 = 0.725806
+2021-04-11 07:12:20 - INFO - Evaluating on dev dataset at step 8999 in epoch 2 (global step: 27766)...
+2021-04-11 07:19:10 - INFO - Results: f1 = 0.620192 (threshold = 0.103000), hits@1 = 0.737903
+2021-04-11 07:23:39 - INFO - Evaluating on dev dataset at step 9382 in epoch 2 (global step: 28149)...
+2021-04-11 07:30:28 - INFO - Results: f1 = 0.617112 (threshold = 0.011000), hits@1 = 0.733871
+2021-04-11 07:30:28 - INFO - Evaluation on test dataset...
+2021-04-11 08:06:34 - INFO - Results: f1 = 0.573935 (threshold = 0.229000), hits@1 = 0.723990
