@@ -1,4 +1,4 @@
-/data
+# /data
 /output
 /tmp
 /trash
@@ -11,4 +11,4 @@ results.md
 print_results.py
 show_results.ipynb
 make_figures
-final_output
+# final_output
