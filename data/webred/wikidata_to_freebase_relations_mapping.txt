@@ -1,0 +1,135 @@
+https://www.freebase.com/education/education/degree
+https://www.freebase.com/aviation/airline/hubs
+https://www.freebase.com/architecture/structure/architect
+https://www.freebase.com/architecture/structure/architectural_style
+https://www.freebase.com/chemistry/chemical_element/atomic_number
+https://www.freebase.com/book/written_work/author	https://www.freebase.com/media_common/quotation/author	https://www.freebase.com/visual_art/visual_art_form/artists
+https://www.freebase.com/award/award_honor/award	https://www.freebase.com/award/award_winner/awards_won	https://www.freebase.com/award/award_winning_work/awards_won
+https://www.freebase.com/media_common/adaptation/adapted_from
+https://www.freebase.com/organization/organization/board_members
+https://www.freebase.com/film/film/starring	https://www.freebase.com/film/performance/actor	https://www.freebase.com/theater/theater_role/actor	https://www.freebase.com/tv/regular_tv_appearance/actor	https://www.freebase.com/tv/tv_guest_role/actor	https://www.freebase.com/tv/tv_program/regular_cast	https://www.freebase.com/tv/tv_series_episode/guest_stars
+https://www.freebase.com/people/person/children
+https://www.freebase.com/astronomy/orbital_relationship/orbited_by
+https://www.freebase.com/music/composition/composer	https://www.freebase.com/film/film/music
+https://www.freebase.com/military/military_combatant_group/conflict	https://www.freebase.com/military/military_person/participated_in_conflicts
+https://www.freebase.com/metropolitan_transit/transit_stop/transit_lines
+https://www.freebase.com/astronomy/star/constellation
+https://www.freebase.com/base/aareas/schema/administrative_area/administrative_children	https://www.freebase.com/location/country/first_level_divisions
+https://www.freebase.com/location/administrative_division/country	https://www.freebase.com/location/administrative_division/first_level_division_of	https://www.freebase.com/location/administrative_division/second_level_division_of	https://www.freebase.com/location/administrative_division/third_level_division_of	https://www.freebase.com/location/administrative_division/fourth_level_division_of	https://www.freebase.com/geography/lake/basin_countries	https://www.freebase.com/geography/river/basin_countries	https://www.freebase.com/base/biblioness/bibs_location/country	https://www.freebase.com/location/mailing_address/country	https://www.freebase.com/location/postal_code/country
+https://www.freebase.com/olympics/olympic_athlete/country	https://www.freebase.com/olympics/olympic_athlete_affiliation/country	https://www.freebase.com/olympics/olympic_medal_honor/country
+https://www.freebase.com/people/person/nationality
+https://www.freebase.com/tv/tv_program/country_of_origin	https://www.freebase.com/film/film/country
+https://www.freebase.com/tv/tv_program/program_creator	https://www.freebase.com/fictional_universe/fictional_character/character_created_by	https://www.freebase.com/visual_art/artwork/artist	https://www.freebase.com/visual_art/visual_art_form/artists
+https://www.freebase.com/spaceflight/space_mission/astronauts
+http://www.freebase.com/transportation/bridge/body_of_water_spanned
+https://www.freebase.com/measurement_unit/money_value/currency	https://www.freebase.com/measurement_unit/dated_money_value/currency
+https://www.freebase.com/people/person/date_of_birth
+https://www.freebase.com/people/deceased_person/date_of_death
+https://www.freebase.com/tv/tv_series_episode/air_date
+https://www.freebase.com/architecture/structure/opened
+https://www.freebase.com/chemistry/isotope_decay/isotope
+https://www.freebase.com/cvg/computer_videogame/designers
+https://www.freebase.com/cvg/computer_videogame/developer
+https://www.freebase.com/film/film/directed_by	https://www.freebase.com/tv/tv_series_episode/director
+https://www.freebase.com/film/film/cinematography
+https://www.freebase.com/astronomy/astronomical_discovery/discoverer	https://www.freebase.com/astronomy/astronomical_discovery/discovery_organization	https://www.freebase.com/chemistry/chemical_element/discoverer	https://www.freebase.com/chemistry/chemical_element/discoverer
+https://www.freebase.com/film/film/distributors
+https://www.freebase.com/music/recording/length	https://www.freebase.com/music/release/length
+https://www.freebase.com/book/book_edition/book
+https://www.freebase.com/people/person/education	https://www.freebase.com/education/education/institution
+https://www.freebase.com/chemistry/chemical_element/electronegativity
+https://www.freebase.com/people/person/employment_history
+https://www.freebase.com/time/event/end_date	https://www.freebase.com/tv/tv_program/air_date_of_final_episode	https://www.freebase.com/education/education/end_date	https://www.freebase.com/government/government_position_held/to	https://www.freebase.com/music/group_membership/end	https://www.freebase.com/organization/organization_relationship/to	https://www.freebase.com/people/marriage/to	https://www.freebase.com/people/place_lived/end_date	https://www.freebase.com/royalty/noble_title_tenure/to_date	https://www.freebase.com/sports/sports_team_roster/to
+https://www.freebase.com/people/person/ethnicity
+https://www.freebase.com/film/film/executive_produced_by
+https://www.freebase.com/people/family_member/family	https://www.freebase.com/royalty/monarch/royal_line
+https://www.freebase.com/people/person/parents
+https://www.freebase.com/film/film_crew_gig/crewmember
+https://www.freebase.com/film/film/edited_by
+https://www.freebase.com/film/film_location
+https://www.freebase.com/book/written_work/next_in_series	https://www.freebase.com/film/film/sequel	https://www.freebase.com/tv/tv_series_episode/next_episode
+https://www.freebase.com/film/film/prequel	https://www.freebase.com/tv/tv_series_episode/previous_episode	https://www.freebase.com/book/written_work/previous_in_series
+https://www.freebase.com/award/award_honor/honored_for	https://www.freebase.com/award/award_nomination/nominated_for
+https://www.freebase.com/organization/organization/founders
+https://www.freebase.com/book/book/genre	https://www.freebase.com/cvg/computer_videogame/cvg_genre	https://www.freebase.com/film/film/genre	https://www.freebase.com/media_common/netflix_title/netflix_genres	https://www.freebase.com/music/album/genre	https://www.freebase.com/music/artist/genre	https://www.freebase.com/tv/tv_program/genre	http://www.freebase.com/authority/netflix/genre
+https://www.freebase.com/book/book/editions
+https://www.freebase.com/music/musical_group/member	https://www.freebase.com/chemistry/chemical_element/atomic_mass
+https://www.freebase.com/organization/organization/headquarters
+https://www.freebase.com/people/person/height_meters
+https://www.freebase.com/protected_sites/listed_site/designation_as_natural_or_cultural_site	https://www.freebase.com/protected_sites/natural_or_cultural_site_listing/designation
+https://www.freebase.com/sports/sports_team/arena_stadium
+https://www.freebase.com/book/written_work/date_written	https://www.freebase.com/organization/organization/date_founded	https://www.freebase.com/sports/sports_team/founded	https://www.freebase.com/digicams/digital_camera/released
+https://www.freebase.com/influence/influence_node/influenced_by
+https://www.freebase.com/astronomy/celestial_object/category	https://www.freebase.com/astronomy/extraterrestrial_location/type_of_planetographic_feature	https://www.freebase.com/music/album/album_content_type	https://www.freebase.com/music/album/release_type	https://www.freebase.com/time/event/instance_of_recurring_event	https://www.freebase.com/transportation/bridge/bridge_type	https://www.freebase.com/visual_art/artwork/media	https://www.freebase.com/chemistry/chemical_classification/chemicals_of_this_type	https://www.freebase.com/chemistry/chemical_classification/higher_classifications	https://www.freebase.com/chemistry/chemical_compound/classifications	https://www.freebase.com/chemistry/isotope/stable
+https://www.freebase.com/music/group_member/instruments_played
+https://www.freebase.com/music/composition/language
+https://www.freebase.com/sports/sports_team/league
+https://www.freebase.com/organization/organization/legal_structure
+https://www.freebase.com/broadcast/broadcast/area_served
+https://www.freebase.com/base/aareas/schema/administrative_area/administrative_parent	https://www.freebase.com/location/hud_county_place/county	https://www.freebase.com/location/hud_county_place/county
+https://www.freebase.com/location/location/time_zones
+https://www.freebase.com/astronomy/extraterrestrial_location/on_celestial_object
+https://www.freebase.com/location/location/containedby
+https://www.freebase.com/location/location/containedby	https://www.freebase.com/location/location/street_address	https://www.freebase.com/people/marriage/location_of_ceremony https://www.freebase.com/time/event/locations	http://www.freebase.com/transportation/bridge/locale
+https://www.freebase.com/chemistry/chemical_element/discovering_country
+https://www.freebase.com/music/composition/lyricist
+https://www.freebase.com/book/written_work/subjects	https://www.freebase.com/base/kwebbase/kwsentence/kwtopic
+https://www.freebase.com/digicams/digital_camera/manufacturer	https://www.freebase.com/boats/ship/ship_builder
+https://www.freebase.com/people/person/weight_kg	https://www.freebase.com/digicams/digital_camera/weight
+https://www.freebase.com/visual_art/artwork/media
+https://www.freebase.com/music/group_membership/group
+https://www.freebase.com/government/politician/party
+https://www.freebase.com/sports/pro_athlete/teams	https://www.freebase.com/sports/sports_team_roster/team
+https://www.freebase.com/military/military_service/military_force	https://www.freebase.com/military/military_person/service
+https://www.freebase.com/people/person/parents
+https://www.freebase.com/geography/river/mouth
+https://www.freebase.com/symbols/namesake/named_after
+https://www.freebase.com/royalty/noble_person/titles	https://www.freebase.com/royalty/noble_title_tenure/noble_title
+https://www.freebase.com/award/award_nominated_work/award_nominations	https://www.freebase.com/award/award_nomination/award	https://www.freebase.com/award/award_nominee/award_nominations
+https://www.freebase.com/book/author/works_written	https://www.freebase.com/architecture/architect/structures_designed
+https://www.freebase.com/tv/tv_program/number_of_episodes
+https://www.freebase.com/tv/tv_program/number_of_seasons
+https://www.freebase.com/people/person/profession
+https://www.freebase.com/government/government_position_held/office_holder
+https://www.freebase.com/book/written_work/original_language	https://www.freebase.com/film/film/language	https://www.freebase.com/tv/tv_program/languages
+https://www.freebase.com/tv/tv_program/original_network
+https://www.freebase.com/astronomy/orbital_relationship/orbits
+https://www.freebase.com/business/business_location/parent_company	https://www.freebase.com/organization/organization/parent	https://www.freebase.com/organization/organization_relationship/parent
+https://www.freebase.com/biology/organism_classification/higher_classification
+https://www.freebase.com/tv/tv_series_episode/season	https://www.freebase.com/olympics/olympic_event_competition/olympic_games_contested
+https://www.freebase.com/book/written_work/part_of_series	https://www.freebase.com/cvg/computer_videogame/game_series	https://www.freebase.com/film/film/film_series	https://www.freebase.com/tv/regular_tv_appearance/series	https://www.freebase.com/tv/tv_series_episode/series	https://www.freebase.com/tv/tv_series_season/series
+https://www.freebase.com/base/culturalevent/event/entity_involved	https://www.freebase.com/base/nascar/nascar_race_result/driver	https://www.freebase.com/olympics/olympic_athlete_affiliation/athlete	https://www.freebase.com/olympics/olympic_games/athletes	https://www.freebase.com/olympics/olympic_medal_honor/medalist	https://www.freebase.com/olympics/olympic_participating_country/athletes	https://www.freebase.com/olympics/olympic_sport/athletes
+https://www.freebase.com/people/person/spouse_s
+https://www.freebase.com/music/album/artist	https://www.freebase.com/music/recording/artist	https://www.freebase.com/music/album/artist
+https://www.freebase.com/people/person/place_of_birth
+https://www.freebase.com/people/deceased_person/place_of_burial
+https://www.freebase.com/people/deceased_person/place_of_death
+https://www.freebase.com/book/book_edition/place_of_publication	https://www.freebase.com/film/film_regional_release_date/film_release_region
+https://www.freebase.com/cvg/game_version/platform	https://www.freebase.com/film/film_regional_release_date/film_release_distribution_medium
+https://www.freebase.com/award/award_honor/year	https://www.freebase.com/award/award_nomination/year	https://www.freebase.com/award/ranking/year	https://www.freebase.com/base/kwebbase/kwsentence/dates	https://www.freebase.com/base/schemastaging/athlete_salary/date	https://www.freebase.com/base/usnris/nris_listing/significant_year	https://www.freebase.com/boats/ship/launched	https://www.freebase.com/government/election/election_year	https://www.freebase.com/measurement_unit/dated_float/date	https://www.freebase.com/measurement_unit/dated_integer/year	https://www.freebase.com/measurement_unit/dated_money_value/valid_date	https://www.freebase.com/measurement_unit/dated_percentage/date	https://www.freebase.com/chemistry/chemical_element/discovery_date
+https://www.freebase.com/government/political_party/ideology
+https://www.freebase.com/location/statistical_region/population
+https://www.freebase.com/government/government_position_held/office_position_or_title	https://www.freebase.com/government/politician/government_positions_held	https://www.freebase.com/royalty/noble_title_tenure/noble_title
+https://www.freebase.com/american_football/football_player/position_s	https://www.freebase.com/basketball/basketball_player/position_s	https://www.freebase.com/baseball/baseball_player/position_s	https://www.freebase.com/soccer/football_player/position_s	https://www.freebase.com/sports/sports_team_roster/position
+https://www.freebase.com/film/film/produced_by
+https://www.freebase.com/film/film/production_companies
+https://www.freebase.com/book/book_edition/publication_date	https://www.freebase.com/book/written_work/date_of_first_publication	https://www.freebase.com/cvg/computer_videogame/release_date	https://www.freebase.com/cvg/game_version/release_date	https://www.freebase.com/film/film/initial_release_date	https://www.freebase.com/film/film_regional_release_date/release_date	https://www.freebase.com/film/film/release_date_s	https://www.freebase.com/music/album/release_date	https://www.freebase.com/music/release/release_date
+https://www.freebase.com/book/book_edition/publisher	https://www.freebase.com/cvg/computer_videogame/publisher
+https://www.freebase.com/music/release/label	https://www.freebase.com/music/artist/label
+https://www.freebase.com/people/person/religion
+https://www.freebase.com/people/person/places_lived	https://www.freebase.com/people/place_lived/location
+https://www.freebase.com/base/givennames/given_name/variations
+https://www.freebase.com/film/film/story_by	https://www.freebase.com/film/film/written_by	https://www.freebase.com/tv/tv_series_episode/writer
+https://www.freebase.com/people/person/sibling_s
+https://www.freebase.com/chemistry/isotope/spin
+https://www.freebase.com/sports/sports_team/sport	https://www.freebase.com/olympics/olympic_athlete_affiliation/sport	https://www.freebase.com/sports/pro_athlete/sports_played_professionally	
+https://www.freebase.com/people/marriage/spouse	https://www.freebase.com/people/person/spouse_s
+https://www.freebase.com/education/education/start_date	https://www.freebase.com/government/government_position_held/from	https://www.freebase.com/music/group_membership/start	https://www.freebase.com/organization/organization_relationship/from	https://www.freebase.com/people/marriage/from	https://www.freebase.com/people/place_lived/start_date	https://www.freebase.com/protected_sites/natural_or_cultural_site_listing/date_listed	https://www.freebase.com/royalty/noble_title_tenure/from_date	https://www.freebase.com/sports/sports_team_roster/from	https://www.freebase.com/time/event/start_date	https://www.freebase.com/tv/tv_program/air_date_of_first_episode
+https://www.freebase.com/business/stock_ticker_symbol/stock_exchange
+https://www.freebase.com/astronomy/celestial_object_category/subcategory_of	https://www.freebase.com/people/profession/specialization_of	https://www.freebase.com/chemistry/chemical_classification/chemicals_of_this_type	https://www.freebase.com/chemistry/chemical_classification/higher_classifications	https://www.freebase.com/chemistry/chemical_classification/lower_classifications	https://www.freebase.com/chemistry/chemical_compound/classifications	https://www.freebase.com/chemistry/isotope/isotope_of	https://www.freebase.com/digicams/digital_camera/format
+https://www.freebase.com/organization/organization/child	https://www.freebase.com/organization/organization_relationship/child
+https://www.freebase.com/astronomy/astronomical_discovery/discovery_date
+https://www.freebase.com/location/statistical_region/unemployment_rate
+https://www.freebase.com/boats/ship/ship_class
+https://www.freebase.com/digicams/camera_dimensions/width
+https://www.freebase.com/award/award_achievement_level/winners	https://www.freebase.com/award/award_category/winners https://www.freebase.com/award/award_honor/award_winner

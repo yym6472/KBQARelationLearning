@@ -1,0 +1,523 @@
+Alexa rank	P1661	34
+CPU	P880	2
+Erdős number	P2021	105
+Euler characteristic	P6438	5
+GUI toolkit or framework	P1414	2
+Gram staining	P2597	8
+IDLH	P2129	73
+Mohs' hardness	P1088	17
+Poisson's ratio	P5593	2
+VAT-rate	P2855	91
+academic degree	P512	1
+account charge / subscription fee	P5897	1
+adjacent station	P197	39
+affiliation	P1416	25
+afflicts	P689	1
+after a work by	P1877	30
+age of candidacy	P2998	19
+age of consent	P2999	30
+age of majority	P2997	169
+airline alliance	P114	1
+airline hub	P113	22
+allegiance	P945	21
+amended by	P2567	1
+anatomical location	P927	1
+ancestral home	P66	1
+angular resolution	P3439	3
+anthem	P85	2
+antiparticle	P2152	19
+applies to jurisdiction	P1001	365
+applies to part	P518	4
+approved by	P790	3
+architect	P84	65
+architectural style	P149	9
+archives at	P485	4
+area	P2046	14
+art director	P3174	4
+astronaut mission	P450	11
+atomic number	P1086	106
+author	P50	525
+authority	P797	4
+award received	P166	173
+backup or reserve team or crew	P3015	1
+based on	P144	32
+basin country	P205	224
+basionym	P566	1
+binding energy	P2154	1
+biological variant of	P3433	2
+board member	P3320	18
+boiling point	P2102	12
+brand	P1716	66
+broadcast by	P3301	2
+business division	P199	15
+canonization status	P411	2
+capital	P36	2522
+capital of	P1376	2440
+carries	P2505	9
+carries scientific instrument	P1202	15
+cast member	P161	601
+ceiling exposure limit	P2405	30
+cell component	P681	3
+central bank	P1304	9
+chairperson	P488	115
+characters	P674	95
+chief executive officer	P169	145
+chief operating officer	P1789	1
+child	P40	270
+child astronomical body	P398	66
+choreographer	P1809	3
+cites	P2860	1
+coat of arms	P237	1
+collection	P195	7
+commander of	P598	9
+commemorates	P547	1
+commissioned by	P88	6
+composer	P86	130
+compressive modulus of elasticity	P5993	15
+compulsory education (maximum age)	P3271	89
+compulsory education (minimum age)	P3270	372
+conferred by	P1027	25
+conflict	P607	155
+connecting line	P81	62
+connecting service	P1192	5
+connects with	P2789	42
+consecrator	P1598	3
+constellation	P59	6
+contains administrative territorial entity	P150	5254
+contains settlement	P1383	5
+continent	P30	986
+conversion to SI unit	P2370	31
+conversion to standard unit	P2442	23
+copyright holder	P3931	19
+country	P17	20277
+country for sport	P1532	240
+country of citizenship	P27	3894
+country of origin	P495	593
+court	P4884	3
+cover artist	P736	1
+creator	P170	226
+crew member	P1029	11
+crosses	P177	28
+culture	P2596	4
+currency	P38	9
+date of birth	P569	641
+date of death	P570	364
+date of first performance	P1191	4
+date of official opening	P1619	21
+decays to	P816	2
+decomposition point	P2107	2
+dedicated to	P825	38
+defendant	P1591	3
+defined daily dose	P4250	6
+depicted by	P1299	1
+depicts	P180	16
+derivative work	P4969	11
+described by source	P1343	5
+designated as terrorist by	P3461	51
+designed by	P287	49
+destination point	P1444	49
+developer	P178	365
+dialect of	P4913	2
+diameter	P2386	15
+different from	P1889	129
+diocese	P708	3
+diplomatic relation	P530	14024
+director	P57	266
+director of photography	P344	2
+director/manager	P1037	42
+discontinued date	P2669	1
+discoverer or inventor	P61	54
+dissolved, abolished or demolished	P576	50
+distance from Earth	P2583	4
+distribution	P437	2
+distributor	P750	52
+doctoral advisor	P184	112
+doctoral student	P185	86
+donated by	P1028	1
+drafted by	P647	174
+drainage basin	P4614	1
+drug used for treatment	P2176	34
+dual to	P1322	18
+duration	P2047	4
+edition or translation of	P629	5
+editor	P98	48
+editor-in-chief	P5769	4
+educated at	P69	458
+electric charge	P2200	27
+electronegativity	P1108	96
+elevation above sea level	P2044	133
+embodied energy	P6075	2
+employees	P1128	1
+employer	P108	580
+enclave within	P501	10
+encoded by	P702	1
+encodes	P688	621
+end time	P582	31
+endemic to	P183	24
+ethnic group	P172	118
+excavation director	P4345	1
+exclave of	P500	23
+executive body	P208	24
+executive producer	P1431	27
+facet of	P1269	30
+family	P53	50
+family relationship degree	P4500	1
+father	P22	195
+field of work	P101	52
+film crew member	P3092	1
+film editor	P1040	14
+filming location	P915	15
+flash point	P2128	19
+flattening	P1102	1
+floors above ground	P1101	3
+floruit	P1317	4
+followed by	P156	346
+follows	P155	291
+for work	P1686	1
+found in taxon	P703	5
+foundational text	P457	8
+founded by	P112	411
+frequency	P2144	1
+frequency of event	P2257	102
+from fictional universe	P1080	4
+game mechanics	P4151	1
+gene inversion association with	P1915	2
+general manager	P505	1
+genetic association	P2293	13
+genre	P136	24
+gestation period	P3063	2
+hardness	P5483	1
+has cause	P828	8
+has edition	P747	5
+has effect	P1542	57
+has part	P527	1296
+has parts of the class	P2670	5
+has quality	P1552	5
+head coach	P286	58
+head coach of sports team	P6087	6
+head of government	P6	393
+head of state	P35	284
+headquarters location	P159	2510
+health specialty	P1995	12
+heart rate	P3395	1
+height	P2048	6
+heritage designation	P1435	11
+highest judicial authority	P209	20
+highest point	P610	27
+highway system	P16	6
+history of topic	P2184	2
+home venue	P115	67
+iconographic symbol	P4185	1
+illustrator	P110	4
+inception	P571	370
+incidence	P2844	1
+indigenous to	P2341	31
+individual tax rate	P2834	11
+industry	P452	13
+inflation rate	P1279	2351
+influenced by	P737	182
+inspired by	P941	7
+instance of	P31	204
+instrument	P1303	3
+interchange station	P833	8
+interested in	P2650	4
+invasive to	P5588	1
+isospin quantum number	P1126	8
+isospin z-component	P1127	12
+item operated	P121	15
+killed by	P157	16
+lake inflows	P200	8
+lake outflow	P201	4
+lakes on river	P469	7
+language of work or name	P407	136
+language used	P2936	180
+languages spoken, written or signed	P1412	285
+league	P118	451
+league level above	P2499	3
+league level below	P2500	3
+legal form	P1454	2
+legislated by	P467	4
+legislative body	P194	76
+length	P2043	13
+librettist	P87	12
+license	P275	4
+licensed to broadcast to	P1408	26
+life expectancy	P2250	4
+located in or next to body of water	P206	314
+located in present-day administrative territorial entity	P3842	8
+located in protected area	P3018	10
+located in the administrative territorial entity	P131	10088
+located in time zone	P421	2
+located on astronomical location	P376	46
+located on street	P669	7
+located on terrain feature	P706	221
+location	P276	390
+location of discovery	P189	2
+location of final assembly	P1071	6
+location of first performance	P4647	1
+location of formation	P740	551
+lower flammable limit	P2202	98
+lowest point	P1589	96
+lyrics by	P676	72
+main regulatory text	P92	1
+main subject	P921	50
+mains voltage	P2884	27
+maintained by	P126	22
+manufacturer	P176	181
+marriageable age	P3000	216
+mascot	P822	4
+mass	P2067	12
+material used	P186	9
+maximal incubation period in humans	P3487	1
+maximum number of players	P1873	2
+measured by	P1880	3
+median lethal dose	P2240	11
+medical condition treated	P2175	31
+melting point	P2101	9
+member count	P2124	2
+member of	P463	716
+member of political party	P102	797
+member of sports team	P54	1662
+memory capacity	P2928	1
+military branch	P241	68
+military rank	P410	11
+minimal incubation period in humans	P3488	6
+minimal lethal dose	P2300	14
+minimum number of players	P1872	3
+minimum wavelength of sensitivity	P3738	2
+model item	P5869	10
+month of the year	P2922	2
+mother	P25	77
+mount	P3091	7
+mountain range	P4552	36
+mouth of the watercourse	P403	66
+mouthpiece	P2813	1
+movement	P135	52
+mushroom ecological type	P788	1
+named after	P138	246
+narrative location	P840	34
+narrator	P2438	1
+native language	P103	63
+natural product of taxon	P1582	2
+negative therapeutic predictor	P3355	2
+neutron number	P1148	15
+next higher rank	P3730	5
+next lower rank	P3729	6
+noble title	P97	19
+nominal GDP	P2131	1
+nominated for	P1411	43
+notable work	P800	312
+number of cases	P1603	1
+number of children	P1971	105
+number of constituencies	P4253	3
+number of deaths	P1120	3
+number of episodes	P1113	13
+number of injured	P1339	1
+number of participants	P1132	1
+number of parts of this work of art	P2635	1
+number of platform tracks	P1103	7
+number of representations	P5027	1
+number of representatives in an organization/legislature	P1410	100
+number of seasons	P2437	43
+number of seats	P1342	14
+number of speakers	P1098	1
+numeric value	P1181	31
+objective of project or action	P3712	2
+occupant	P466	101
+occupation	P106	21
+office held by head of government	P1313	3
+office held by head of state	P1906	2
+office held by head of the organisation	P2388	5
+officeholder	P1308	11
+official language	P37	502
+official religion	P3075	5
+official residence	P263	1
+operating area	P2541	61
+operating system	P306	40
+operator	P137	502
+opposite of	P461	107
+organisation directed from the office or person	P2389	3
+organizer	P664	27
+origin of the watercourse	P885	8
+original language of film or TV show	P364	66
+original network	P449	218
+owned by	P127	703
+owner of	P1830	570
+oxidation state	P1121	1296
+pKa	P1117	8
+package management system	P3033	1
+parent astronomical body	P397	66
+parent club	P831	6
+parent organization	P749	388
+parent peak	P3137	1
+parent taxon	P171	357
+parity	P1123	43
+part of	P361	1122
+part of the series	P179	111
+participant	P710	125
+participant of	P1344	138
+participating team	P1923	17
+partner	P451	130
+party chief representative	P210	2
+patron saint	P417	2
+performer	P175	669
+perimeter	P2547	1
+physically interacts with	P129	9
+place of birth	P19	877
+place of burial	P119	61
+place of death	P20	592
+place of detention	P2632	3
+place of publication	P291	76
+place served by transport hub	P931	27
+platform	P400	75
+point in time	P585	75
+pole position	P3764	1
+political alignment	P1387	1
+political ideology	P1142	15
+population	P1082	19
+position held	P39	69
+position played on team / speciality	P413	5
+practiced by	P3095	27
+present in work	P1441	185
+presenter	P371	25
+pressure	P2077	2
+price	P2284	4
+primary destinations	P1302	3
+produced by	P2849	1
+producer	P162	153
+product certification	P1389	1
+product or material produced	P1056	89
+production company	P272	80
+professional or sports partner	P1327	73
+programming language	P277	38
+public holiday	P832	15
+publication date	P577	193
+publication interval	P2896	129
+publisher	P123	131
+quantity	P1114	7
+radius	P2120	6
+ranking	P1352	46
+readable file format	P1072	10
+real gross domestic product growth rate	P2219	12
+record label	P264	89
+refractive index	P1109	2
+regulates (molecular biology)	P128	1
+relative	P1038	30
+relative permeability	P5676	3
+relative permittivity	P5675	2
+religion	P140	231
+religious order	P611	23
+repealed by	P2568	1
+repeals	P3148	1
+replaced by	P1366	85
+replaced synonym (for nom. nov.)	P694	1
+replaces	P1365	80
+represents	P1268	16
+research site	P6153	5
+residence	P551	177
+residence time of water	P3020	2
+retirement age	P3001	24
+route of administration	P636	1
+said to be the same as	P460	33
+school district	P5353	7
+screenwriter	P58	193
+season of club or team	P5138	1
+secretary general	P3975	4
+semi-major axis	P2233	46
+separated from	P807	108
+series spin-off	P2512	59
+service entry	P729	6
+service retirement	P730	2
+shares border with	P47	7505
+short-term exposure limit	P2407	45
+sibling	P3373	164
+sidekick of	P2546	4
+signatory	P1891	17
+significant event	P793	104
+significant person	P3342	18
+software engine	P408	10
+solubility	P2177	55
+solved by	P1136	1
+space launch vehicle	P375	5
+speaker	P823	3
+speed limit	P3086	73
+spin quantum number	P1122	32
+sponsor	P859	11
+sport	P641	56
+sports discipline competed in	P2416	1
+sports league level	P3983	9
+sports season of league or competition	P3450	7
+spouse	P26	862
+standards body	P1462	11
+start point	P1427	4
+start time	P580	34
+statistical leader	P3279	1
+stepparent	P3448	1
+stock exchange	P414	54
+structural engineer	P631	2
+student	P802	63
+student of	P1066	67
+studied by	P2579	5
+studies	P2578	4
+subclass of	P279	317
+subject has role	P2868	3
+subsidiary	P355	317
+suicide rate	P3864	3
+symptoms	P780	1
+takes place in fictional universe	P1434	3
+talk show guest	P5030	1
+taxon synonym	P1420	4
+taxonomic type	P427	3
+temperature	P2076	3
+tensile modulus of elasticity	P5480	3
+term length of office	P2097	1
+terminus	P559	35
+terminus location	P609	15
+territory claimed by	P1336	77
+territory overlaps	P3179	3
+theme music	P942	3
+thermal conductivity	P2068	1
+this taxon is source of	P1672	6
+time of discovery or invention	P575	13
+time of earliest written record	P1249	3
+time of spacecraft launch	P619	3
+time period	P2348	15
+time-weighted average exposure limit	P2404	255
+timezone offset	P2907	1
+top-level Internet domain	P78	6
+total fertility rate	P4841	78
+total produced	P1092	7
+tracklist	P658	2
+translator	P655	1
+tributary	P974	67
+twinned administrative body	P190	326
+ultimate tensile strength	P5479	2
+unemployment rate	P1198	441
+update method	P4387	1
+upper flammable limit	P2203	10
+use	P366	14
+used by	P1535	3
+uses	P2283	6
+vaccine for	P1924	1
+vapor pressure	P2119	140
+vehicles per capita (1000)	P5167	7
+vertical depth	P4511	3
+vessel class	P289	1
+visitors per year	P1174	1
+voice actor	P725	31
+volcano observatory	P3815	1
+water as percent of area	P2927	4
+watershed area	P2053	1
+wavelength	P2808	6
+website account on	P553	2
+width	P2049	5
+wingspan	P2050	1
+winner	P1346	75
+work location	P937	193
+work period (end)	P2032	4
+work period (start)	P2031	15
+works in collection	P6379	7
+worshipped by	P1049	3
+writable file format	P1073	5
+writing system	P282	1
+youth wing	P4379	1

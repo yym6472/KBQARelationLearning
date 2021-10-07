@@ -1,0 +1,567 @@
+<fb:american_football.football_coach.coaching_history>	american football football coach coaching history
+<fb:american_football.football_coach.current_team_head_coached>	american football football coach current team head coached
+<fb:american_football.football_historical_coach_position.coach>	american football football historical coach position coach
+<fb:american_football.football_historical_coach_position.team>	american football football historical coach position team
+<fb:american_football.football_player.games>	american football football player games
+<fb:american_football.football_player.position_s>	american football football player position s
+<fb:american_football.football_player.receiving>	american football football player receiving
+<fb:american_football.football_player.rushing>	american football football player rushing
+<fb:american_football.football_team.current_head_coach>	american football football team current head coach
+<fb:american_football.football_team.division>	american football football team division
+<fb:american_football.football_team.historical_coaching_staff>	american football football team historical coaching staff
+<fb:american_football.player_game_statistics.team>	american football player game statistics team
+<fb:american_football.player_receiving_statistics.team>	american football player receiving statistics team
+<fb:american_football.player_rushing_statistics.team>	american football player rushing statistics team
+<fb:architecture.architect.structures_designed>	architecture architect structures designed
+<fb:architecture.architectural_structure_owner.structures_owned>	architecture architectural structure owner structures owned
+<fb:architecture.building.building_complex>	architecture building building complex
+<fb:architecture.building.building_function>	architecture building building function
+<fb:architecture.ownership.structure>	architecture ownership structure
+<fb:astronomy.astronomer.astronomical_objects_discovered>	astronomy astronomer astronomical objects discovered
+<fb:astronomy.astronomical_discovery.discoverer>	astronomy astronomical discovery discoverer
+<fb:automotive.company.make_s>	automotive company make s
+<fb:aviation.aircraft_manufacturer.aircraft_models_made>	aviation aircraft manufacturer aircraft models made
+<fb:aviation.aircraft_owner.aircraft_fleet_composition>	aviation aircraft owner aircraft fleet composition
+<fb:aviation.aircraft_ownership_count.aircraft_model>	aviation aircraft ownership count aircraft model
+<fb:aviation.airline.airports_served>	aviation airline airports served
+<fb:aviation.airline_airport_presence.airport>	aviation airline airport presence airport
+<fb:aviation.airline_airport_presence.cities_served>	aviation airline airport presence cities served
+<fb:aviation.airport.hub_for>	aviation airport hub for
+<fb:award.award.presented_by>	award award presented by
+<fb:award.award_category.winners>	award award category winners
+<fb:award.award_ceremony.awards_presented>	award award ceremony awards presented
+<fb:award.award_honor.award>	award award honor award
+<fb:award.award_honor.award_winner>	award award honor award winner
+<fb:award.award_honor.honored_for>	award award honor honored for
+<fb:award.award_nominated_work.award_nominations>	award award nominated work award nominations
+<fb:award.award_nomination.award_nominee>	award award nomination award nominee
+<fb:award.award_winner.awards_won>	award award winner awards won
+<fb:award.award_winning_work.awards_won>	award award winning work awards won
+<fb:award.competition.winner>	award competition winner
+<fb:award.competitor.competitions_won>	award competitor competitions won
+<fb:base.aareas.schema.administrative_area.administrative_area_type>	base aareas schema administrative area administrative area type
+<fb:base.aareas.schema.administrative_area.administrative_children>	base aareas schema administrative area administrative children
+<fb:base.aareas.schema.administrative_area.administrative_parent>	base aareas schema administrative area administrative parent
+<fb:base.aareas.schema.administrative_area.capital>	base aareas schema administrative area capital
+<fb:base.aareas.schema.administrative_area.short_name>	base aareas schema administrative area short name
+<fb:base.aareas.schema.administrative_area.subdivides_place>	base aareas schema administrative area subdivides place
+<fb:base.activism.activist.area_of_activism>	base activism activist area of activism
+<fb:base.ancientegypt.pharaoh.reign>	base ancientegypt pharaoh reign
+<fb:base.ancientegypt.pyramid.site>	base ancientegypt pyramid site
+<fb:base.argumentmaps.innovator.original_ideas>	base argumentmaps innovator original ideas
+<fb:base.argumentmaps.original_idea.innovator>	base argumentmaps original idea innovator
+<fb:base.biblioness.bibs_location.country>	base biblioness bibs location country
+<fb:base.biblioness.bibs_location.state>	base biblioness bibs location state
+<fb:base.bioventurist.product.sales>	base bioventurist product sales
+<fb:base.bioventurist.sales.year>	base bioventurist sales year
+<fb:base.crime.acquittal.crime_type>	base crime acquittal crime type
+<fb:base.crime.acquitted_person.acquittal>	base crime acquitted person acquittal
+<fb:base.crime.convicted_criminal.convictions>	base crime convicted criminal convictions
+<fb:base.crime.criminal_conviction.guilty_of>	base crime criminal conviction guilty of
+<fb:base.culturalevent.event.entity_involved>	base culturalevent event entity involved
+<fb:base.datedlocationtest.dated_location_break_up.new_locations>	base datedlocationtest dated location break up new locations
+<fb:base.datedlocationtest.dated_location_test.broke_up_into>	base datedlocationtest dated location test broke up into
+<fb:base.disaster2.attack_process.attack_event>	base disaster2 attack process attack event
+<fb:base.disaster2.attacker.attack_s>	base disaster2 attacker attack s
+<fb:base.disaster2.injured_person.injuries>	base disaster2 injured person injuries
+<fb:base.disaster2.injury.type_of_event>	base disaster2 injury type of event
+<fb:base.events.event_feed.type_of_event>	base events event feed type of event
+<fb:base.events.event_presenting_organisation.event_feed>	base events event presenting organisation event feed
+<fb:base.fictionaluniverse.deceased_fictional_character.date_of_death>	base fictionaluniverse deceased fictional character date of death
+<fb:base.formula1.formula_1_championship_standing.championsip>	base formula1 formula 1 championship standing championsip
+<fb:base.formula1.formula_1_driver.championship_standing>	base formula1 formula 1 driver championship standing
+<fb:base.formula1.formula_1_driver.team_member>	base formula1 formula 1 driver team member
+<fb:base.formula1.formula_1_team_member.team>	base formula1 formula 1 team member team
+<fb:base.gadgets.gadget.brand>	base gadgets gadget brand
+<fb:base.gossipgirl.character.played_by>	base gossipgirl character played by
+<fb:base.government2.appointed_official.appointments>	base government2 appointed official appointments
+<fb:base.government2.elected_government_positions_held.district_represented>	base government2 elected government positions held district represented
+<fb:base.government2.elected_official.elected_positions_held>	base government2 elected official elected positions held
+<fb:base.honouriam.dishonoured_person.dishonor_bestowed>	base honouriam dishonoured person dishonor bestowed
+<fb:base.inaugurations.inauguration_speaker.inauguration>	base inaugurations inauguration speaker inauguration
+<fb:base.infrastructure.infrastructural_municipality.sewage_treatment_plant>	base infrastructure infrastructural municipality sewage treatment plant
+<fb:base.kwebbase.kwtopic.disciplines>	base kwebbase kwtopic disciplines
+<fb:base.locations.continents.countries_within>	base locations continents countries within
+<fb:base.locations.countries.continent>	base locations countries continent
+<fb:base.locations.states_and_provences.country>	base locations states and provences country
+<fb:base.nascar.nascar_driver.team>	base nascar nascar driver team
+<fb:base.nobelprizes.nobel_honor.subject_area>	base nobelprizes nobel honor subject area
+<fb:base.nobelprizes.nobel_prize_winner.nobel_honor>	base nobelprizes nobel prize winner nobel honor
+<fb:base.obamabase.cabinet_member.cabinet_position>	base obamabase cabinet member cabinet position
+<fb:base.obamabase.possible_cabinet_member.cabinet_position>	base obamabase possible cabinet member cabinet position
+<fb:base.politicalconventions.presidential_nominee.nominated_at>	base politicalconventions presidential nominee nominated at
+<fb:base.popstra.celebrity.dated>	base popstra celebrity dated
+<fb:base.popstra.celebrity.infidelity_perpetrator>	base popstra celebrity infidelity perpetrator
+<fb:base.popstra.celebrity.religion>	base popstra celebrity religion
+<fb:base.popstra.celebrity.substance_abuse>	base popstra celebrity substance abuse
+<fb:base.popstra.dated.participant>	base popstra dated participant
+<fb:base.popstra.infidelity.participant>	base popstra infidelity participant
+<fb:base.popstra.religion_choice.religion>	base popstra religion choice religion
+<fb:base.popstra.substance_abuse.substance>	base popstra substance abuse substance
+<fb:base.prison.imprisonment.prison>	base prison imprisonment prison
+<fb:base.prison.prisoner.imprisoned>	base prison prisoner imprisoned
+<fb:base.qualia.disability.type_of_disability>	base qualia disability type of disability
+<fb:base.qualia.disabled_person.disability>	base qualia disabled person disability
+<fb:base.rosetta.languoid.parent>	base rosetta languoid parent
+<fb:base.saints.saint.patronage>	base saints saint patronage
+<fb:base.schemastaging.athlete_extra.salary>	base schemastaging athlete extra salary
+<fb:base.schemastaging.athlete_salary.team>	base schemastaging athlete salary team
+<fb:base.schemastaging.context_name.nickname>	base schemastaging context name nickname
+<fb:base.schemastaging.context_name.official_name>	base schemastaging context name official name
+<fb:base.schemastaging.non_profit_extra.classification>	base schemastaging non profit extra classification
+<fb:base.schemastaging.organization_extra.phone_number>	base schemastaging organization extra phone number
+<fb:base.schemastaging.phone_sandbox.product_or_service>	base schemastaging phone sandbox product or service
+<fb:base.schemastaging.phone_sandbox.service_location>	base schemastaging phone sandbox service location
+<fb:base.schemastaging.sports_team_extra.training_ground>	base schemastaging sports team extra training ground
+<fb:base.schemastaging.team_training_ground_relationship.facility>	base schemastaging team training ground relationship facility
+<fb:base.unitednations.united_nations_body.members>	base unitednations united nations body members
+<fb:base.unitednations.united_nations_body_membership.member>	base unitednations united nations body membership member
+<fb:base.usnationalparks.us_national_park.state>	base usnationalparks us national park state
+<fb:base.worldwonders.ancient_wonder.wonder_creator>	base worldwonders ancient wonder wonder creator
+<fb:baseball.baseball_league.teams>	baseball baseball league teams
+<fb:baseball.baseball_player.batting_stats>	baseball baseball player batting stats
+<fb:baseball.baseball_player.lifetime_batting_statistics>	baseball baseball player lifetime batting statistics
+<fb:baseball.baseball_player.position_s>	baseball baseball player position s
+<fb:baseball.baseball_team.current_coaches>	baseball baseball team current coaches
+<fb:baseball.baseball_team.current_manager>	baseball baseball team current manager
+<fb:baseball.baseball_team.team_stats>	baseball baseball team team stats
+<fb:baseball.baseball_team_stats.season>	baseball baseball team stats season
+<fb:baseball.batting_statistics.season>	baseball batting statistics season
+<fb:baseball.batting_statistics.team>	baseball batting statistics team
+<fb:baseball.current_coaching_tenure.baseball_coach>	baseball current coaching tenure baseball coach
+<fb:baseball.lifetime_batting_statistics.ending_season>	baseball lifetime batting statistics ending season
+<fb:baseball.lifetime_batting_statistics.last_statistics_season>	baseball lifetime batting statistics last statistics season
+<fb:basketball.basketball_player.player_statistics>	basketball basketball player player statistics
+<fb:basketball.basketball_player.position_s>	basketball basketball player position s
+<fb:basketball.basketball_player_stats.season>	basketball basketball player stats season
+<fb:basketball.basketball_player_stats.team>	basketball basketball player stats team
+<fb:basketball.basketball_team.head_coach>	basketball basketball team head coach
+<fb:biology.animal_breed.place_of_origin>	biology animal breed place of origin
+<fb:biology.organism_classification.higher_classification>	biology organism classification higher classification
+<fb:boats.ship.owners>	boats ship owners
+<fb:boats.ship_owner.ships_owned>	boats ship owner ships owned
+<fb:boats.ship_ownership.owner>	boats ship ownership owner
+<fb:boats.ship_ownership.ship>	boats ship ownership ship
+<fb:book.author.book_editions_published>	book author book editions published
+<fb:book.author.school_or_movement>	book author school or movement
+<fb:book.author.works_written>	book author works written
+<fb:book.book_character.appears_in_book>	book book character appears in book
+<fb:book.book_subject.works>	book book subject works
+<fb:book.editorial_tenure.periodical>	book editorial tenure periodical
+<fb:book.literary_series.works_in_this_series>	book literary series works in this series
+<fb:book.newspaper.owner>	book newspaper owner
+<fb:book.periodical_editor.periodicals_edited>	book periodical editor periodicals edited
+<fb:book.written_work.author>	book written work author
+<fb:book.written_work.date_of_first_publication>	book written work date of first publication
+<fb:broadcast.artist.content>	broadcast artist content
+<fb:broadcast.radio_affiliation_duration.station>	broadcast radio affiliation duration station
+<fb:broadcast.radio_network.affiliates>	broadcast radio network affiliates
+<fb:broadcast.tv_station_owner.tv_stations>	broadcast tv station owner tv stations
+<fb:business.asset_owner.assets_owned>	business asset owner assets owned
+<fb:business.asset_ownership.owned_asset>	business asset ownership owned asset
+<fb:business.board_member.leader_of>	business board member leader of
+<fb:business.business_operation.industry>	business business operation industry
+<fb:business.company_brand_relationship.brand>	business company brand relationship brand
+<fb:business.company_product_relationship.consumer_product>	business company product relationship consumer product
+<fb:business.consumer_company.brands>	business consumer company brands
+<fb:business.consumer_company.products>	business consumer company products
+<fb:business.employer.employees>	business employer employees
+<fb:business.employment_tenure.company>	business employment tenure company
+<fb:business.employment_tenure.person>	business employment tenure person
+<fb:business.employment_tenure.title>	business employment tenure title
+<fb:business.shopping_center.address>	business shopping center address
+<fb:business.sponsored_recipient.sponsorship>	business sponsored recipient sponsorship
+<fb:business.sponsorship.sponsored_by>	business sponsorship sponsored by
+<fb:celebrities.celebrity.sexual_relationships>	celebrities celebrity sexual relationships
+<fb:celebrities.celebrity.substance_abuse_problems>	celebrities celebrity substance abuse problems
+<fb:celebrities.romantic_relationship.celebrity>	celebrities romantic relationship celebrity
+<fb:celebrities.substance_abuse_problem.substance>	celebrities substance abuse problem substance
+<fb:chemistry.element_discoverer.discovered>	chemistry element discoverer discovered
+<fb:common.topic.notable_types>	common topic notable types
+<fb:computer.software.developer>	computer software developer
+<fb:computer.software.languages_used>	computer software languages used
+<fb:cvg.computer_videogame.release_date>	cvg computer videogame release date
+<fb:cvg.cvg_developer.game_versions_developed>	cvg cvg developer game versions developed
+<fb:cvg.cvg_developer.games_developed>	cvg cvg developer games developed
+<fb:cvg.cvg_publisher.game_versions_published>	cvg cvg publisher game versions published
+<fb:cvg.cvg_publisher.games_published>	cvg cvg publisher games published
+<fb:dining.restaurant.cuisine>	dining restaurant cuisine
+<fb:distilled_spirits.distillery.region>	distilled spirits distillery region
+<fb:education.education.degree>	education education degree
+<fb:education.education.institution>	education education institution
+<fb:education.education.major_field_of_study>	education education major field of study
+<fb:education.educational_institution.colors>	education educational institution colors
+<fb:education.educational_institution.mascot>	education educational institution mascot
+<fb:event.disaster.areas_affected>	event disaster areas affected
+<fb:fictional_universe.fictional_character.appears_in_these_fictional_universes>	fictional universe fictional character appears in these fictional universes
+<fb:fictional_universe.fictional_character.based_on>	fictional universe fictional character based on
+<fb:fictional_universe.fictional_character.character_created_by>	fictional universe fictional character character created by
+<fb:fictional_universe.fictional_character.children>	fictional universe fictional character children
+<fb:fictional_universe.fictional_character.education>	fictional universe fictional character education
+<fb:fictional_universe.fictional_character.married_to>	fictional universe fictional character married to
+<fb:fictional_universe.fictional_character.occupation>	fictional universe fictional character occupation
+<fb:fictional_universe.fictional_character.parents>	fictional universe fictional character parents
+<fb:fictional_universe.fictional_character.place_of_birth>	fictional universe fictional character place of birth
+<fb:fictional_universe.fictional_character.places_lived>	fictional universe fictional character places lived
+<fb:fictional_universe.fictional_character.powers_or_abilities>	fictional universe fictional character powers or abilities
+<fb:fictional_universe.fictional_character.romantically_involved_with>	fictional universe fictional character romantically involved with
+<fb:fictional_universe.fictional_character.siblings>	fictional universe fictional character siblings
+<fb:fictional_universe.fictional_character_creator.fictional_characters_created>	fictional universe fictional character creator fictional characters created
+<fb:fictional_universe.fictional_date_time.date_time>	fictional universe fictional date time date time
+<fb:fictional_universe.fictional_setting.languages>	fictional universe fictional setting languages
+<fb:fictional_universe.fictional_universe.created_by>	fictional universe fictional universe created by
+<fb:fictional_universe.marriage_of_fictional_characters.spouses>	fictional universe marriage of fictional characters spouses
+<fb:fictional_universe.person_in_fiction.representations_in_fiction>	fictional universe person in fiction representations in fiction
+<fb:fictional_universe.romantic_involvement.partner>	fictional universe romantic involvement partner
+<fb:fictional_universe.sibling_relationship_of_fictional_characters.siblings>	fictional universe sibling relationship of fictional characters siblings
+<fb:film.actor.film>	film actor film
+<fb:film.director.film>	film director film
+<fb:film.film.country>	film film country
+<fb:film.film.featured_film_locations>	film film featured film locations
+<fb:film.film.genre>	film film genre
+<fb:film.film.initial_release_date>	film film initial release date
+<fb:film.film.other_crew>	film film other crew
+<fb:film.film.starring>	film film starring
+<fb:film.film_character.portrayed_in_films>	film film character portrayed in films
+<fb:film.film_crew_gig.crewmember>	film film crew gig crewmember
+<fb:film.film_series.films_in_series>	film film series films in series
+<fb:film.film_story_contributor.film_story_credits>	film film story contributor film story credits
+<fb:film.music_contributor.film>	film music contributor film
+<fb:film.performance.actor>	film performance actor
+<fb:film.performance.character>	film performance character
+<fb:film.performance.film>	film performance film
+<fb:film.performance.special_performance_type>	film performance special performance type
+<fb:film.person_or_entity_appearing_in_film.films>	film person or entity appearing in film films
+<fb:film.personal_film_appearance.film>	film personal film appearance film
+<fb:film.producer.film>	film producer film
+<fb:film.production_company.films>	film production company films
+<fb:film.writer.film>	film writer film
+<fb:finance.currency.countries_used>	finance currency countries used
+<fb:finance.currency.currency_code>	finance currency currency code
+<fb:food.diet_follower.follows_diet>	food diet follower follows diet
+<fb:food.dish.cuisine>	food dish cuisine
+<fb:food.dish.type_of_dish1>	food dish type of dish1
+<fb:geography.body_of_water.depth>	geography body of water depth
+<fb:geography.island.body_of_water>	geography island body of water
+<fb:geography.island.island_group>	geography island island group
+<fb:geography.mountain.mountain_range>	geography mountain mountain range
+<fb:geography.mountain.mountain_type>	geography mountain mountain type
+<fb:geography.river.basin_countries>	geography river basin countries
+<fb:geography.river.mouth>	geography river mouth
+<fb:geography.river.origin>	geography river origin
+<fb:government.election.winner>	government election winner
+<fb:government.government_office_or_title.office_holders>	government government office or title office holders
+<fb:government.government_position_held.basic_title>	government government position held basic title
+<fb:government.government_position_held.district_represented>	government government position held district represented
+<fb:government.government_position_held.from>	government government position held from
+<fb:government.government_position_held.governmental_body>	government government position held governmental body
+<fb:government.government_position_held.jurisdiction_of_office>	government government position held jurisdiction of office
+<fb:government.government_position_held.office_holder>	government government position held office holder
+<fb:government.government_position_held.office_position_or_title>	government government position held office position or title
+<fb:government.governmental_body.body_this_is_a_component_of>	government governmental body body this is a component of
+<fb:government.governmental_body.component_bodies>	government governmental body component bodies
+<fb:government.governmental_body.members>	government governmental body members
+<fb:government.governmental_body.offices_positions>	government governmental body offices positions
+<fb:government.governmental_jurisdiction.governing_officials>	government governmental jurisdiction governing officials
+<fb:government.governmental_jurisdiction.government_bodies>	government governmental jurisdiction government bodies
+<fb:government.governmental_jurisdiction.official_symbols>	government governmental jurisdiction official symbols
+<fb:government.national_anthem_of_a_country.anthem>	government national anthem of a country anthem
+<fb:government.political_appointer.appointees>	government political appointer appointees
+<fb:government.political_district.representatives>	government political district representatives
+<fb:government.political_party.politicians_in_this_party>	government political party politicians in this party
+<fb:government.political_party_tenure.party>	government political party tenure party
+<fb:government.political_party_tenure.politician>	government political party tenure politician
+<fb:government.politician.election_campaigns>	government politician election campaigns
+<fb:government.politician.government_positions_held>	government politician government positions held
+<fb:government.politician.party>	government politician party
+<fb:government.us_president.vice_president>	government us president vice president
+<fb:government.us_vice_president.to_president>	government us vice president to president
+<fb:ice_hockey.hockey_team.coach>	ice hockey hockey team coach
+<fb:influence.influence_node.influenced>	influence influence node influenced
+<fb:influence.influence_node.influenced_by>	influence influence node influenced by
+<fb:internet.website_owner.websites_owned>	internet website owner websites owned
+<fb:language.human_language.countries_spoken_in>	language human language countries spoken in
+<fb:language.human_language.dialects>	language human language dialects
+<fb:language.human_language.language_family>	language human language language family
+<fb:language.human_language.main_country>	language human language main country
+<fb:language.human_language.writing_system>	language human language writing system
+<fb:language.language_writing_system.languages>	language language writing system languages
+<fb:language.language_writing_system.parent_writing_systems>	language language writing system parent writing systems
+<fb:law.court.judges>	law court judges
+<fb:law.court.jurisdiction>	law court jurisdiction
+<fb:law.court.legal_cases>	law court legal cases
+<fb:law.invention.date_of_invention>	law invention date of invention
+<fb:law.invention.inventor>	law invention inventor
+<fb:law.inventor.inventions>	law inventor inventions
+<fb:location.adjoining_relationship.adjoins>	location adjoining relationship adjoins
+<fb:location.administrative_division.capital>	location administrative division capital
+<fb:location.administrative_division.country>	location administrative division country
+<fb:location.administrative_division.first_level_division_of>	location administrative division first level division of
+<fb:location.administrative_division_capital_relationship.administrative_division>	location administrative division capital relationship administrative division
+<fb:location.administrative_division_capital_relationship.capital>	location administrative division capital relationship capital
+<fb:location.australian_state.capital_city>	location australian state capital city
+<fb:location.capital_of_administrative_division.capital_of>	location capital of administrative division capital of
+<fb:location.citytown.postal_codes>	location citytown postal codes
+<fb:location.country.capital>	location country capital
+<fb:location.country.currency_formerly_used>	location country currency formerly used
+<fb:location.country.currency_used>	location country currency used
+<fb:location.country.first_level_divisions>	location country first level divisions
+<fb:location.country.form_of_government>	location country form of government
+<fb:location.country.internet_tld>	location country internet tld
+<fb:location.country.languages_spoken>	location country languages spoken
+<fb:location.country.national_anthem>	location country national anthem
+<fb:location.country.official_language>	location country official language
+<fb:location.hud_county_place.county>	location hud county place county
+<fb:location.hud_county_place.place>	location hud county place place
+<fb:location.imports_and_exports.exported_to>	location imports and exports exported to
+<fb:location.imports_and_exports.imported_from>	location imports and exports imported from
+<fb:location.imports_exports_by_industry.industry>	location imports exports by industry industry
+<fb:location.location.adjoin_s>	location location adjoin s
+<fb:location.location.containedby>	location location containedby
+<fb:location.location.contains>	location location contains
+<fb:location.location.events>	location location events
+<fb:location.location.nearby_airports>	location location nearby airports
+<fb:location.location.partially_contained_by>	location location partially contained by
+<fb:location.location.partially_containedby>	location location partially containedby
+<fb:location.location.partially_contains>	location location partially contains
+<fb:location.location.partiallycontains>	location location partiallycontains
+<fb:location.location.people_born_here>	location location people born here
+<fb:location.location.primarily_containedby>	location location primarily containedby
+<fb:location.location.street_address>	location location street address
+<fb:location.location.time_zones>	location location time zones
+<fb:location.location_symbol_relationship.symbol>	location location symbol relationship symbol
+<fb:location.mailing_address.citytown>	location mailing address citytown
+<fb:location.mailing_address.country>	location mailing address country
+<fb:location.mailing_address.state_province_region>	location mailing address state province region
+<fb:location.partial_containment_relationship.partially_contained_by>	location partial containment relationship partially contained by
+<fb:location.partial_containment_relationship.partially_contains>	location partial containment relationship partially contains
+<fb:location.province.capital>	location province capital
+<fb:location.religion_percentage.religion>	location religion percentage religion
+<fb:location.statistical_region.major_exports>	location statistical region major exports
+<fb:location.statistical_region.major_imports>	location statistical region major imports
+<fb:location.statistical_region.places_exported_to>	location statistical region places exported to
+<fb:location.statistical_region.places_imported_from>	location statistical region places imported from
+<fb:location.statistical_region.religions>	location statistical region religions
+<fb:location.us_state.capital>	location us state capital
+<fb:measurement_unit.time_interval.start>	measurement unit time interval start
+<fb:media_common.netflix_genre.titles>	media common netflix genre titles
+<fb:medicine.notable_person_with_medical_condition.condition>	medicine notable person with medical condition condition
+<fb:meteorology.tropical_cyclone.affected_areas>	meteorology tropical cyclone affected areas
+<fb:meteorology.tropical_cyclone.formed>	meteorology tropical cyclone formed
+<fb:meteorology.tropical_cyclone.tropical_cyclone_season>	meteorology tropical cyclone tropical cyclone season
+<fb:military.casualties.military_conflict>	military casualties military conflict
+<fb:military.force_strength.date>	military force strength date
+<fb:military.military_combatant.casualties>	military military combatant casualties
+<fb:military.military_combatant.force_deployments>	military military combatant force deployments
+<fb:military.military_combatant_group.combatants>	military military combatant group combatants
+<fb:military.military_command.military_combatant>	military military command military combatant
+<fb:military.military_command.military_commander>	military military command military commander
+<fb:military.military_command.military_conflict>	military military command military conflict
+<fb:military.military_commander.military_commands>	military military commander military commands
+<fb:military.military_conflict.combatants>	military military conflict combatants
+<fb:military.military_conflict.commanders>	military military conflict commanders
+<fb:military.military_person.participated_in_conflicts>	military military person participated in conflicts
+<fb:military.military_person.service>	military military person service
+<fb:military.military_service.military_force>	military military service military force
+<fb:music.artist.album>	music artist album
+<fb:music.artist.genre>	music artist genre
+<fb:music.artist.label>	music artist label
+<fb:music.artist.origin>	music artist origin
+<fb:music.artist.track>	music artist track
+<fb:music.artist.track_contributions>	music artist track contributions
+<fb:music.composer.compositions>	music composer compositions
+<fb:music.composition.composer>	music composition composer
+<fb:music.group_member.instruments_played>	music group member instruments played
+<fb:music.group_member.membership>	music group member membership
+<fb:music.group_membership.end>	music group membership end
+<fb:music.group_membership.group>	music group membership group
+<fb:music.group_membership.member>	music group membership member
+<fb:music.group_membership.role>	music group membership role
+<fb:music.guitarist.guitars_played>	music guitarist guitars played
+<fb:music.lyricist.lyrics_written>	music lyricist lyrics written
+<fb:music.musical_group.member>	music musical group member
+<fb:music.track_contribution.role>	music track contribution role
+<fb:music.track_contribution.track>	music track contribution track
+<fb:olympics.olympic_athlete.country>	olympics olympic athlete country
+<fb:olympics.olympic_athlete.medals_won>	olympics olympic athlete medals won
+<fb:olympics.olympic_athlete_affiliation.country>	olympics olympic athlete affiliation country
+<fb:olympics.olympic_athlete_affiliation.sport>	olympics olympic athlete affiliation sport
+<fb:olympics.olympic_host_city.olympics_hosted>	olympics olympic host city olympics hosted
+<fb:olympics.olympic_medal_honor.country>	olympics olympic medal honor country
+<fb:olympics.olympic_medal_honor.event>	olympics olympic medal honor event
+<fb:olympics.olympic_medal_honor.olympics>	olympics olympic medal honor olympics
+<fb:organization.leadership.organization>	organization leadership organization
+<fb:organization.leadership.person>	organization leadership person
+<fb:organization.membership_organization.members>	organization membership organization members
+<fb:organization.organization.board_members>	organization organization board members
+<fb:organization.organization.child>	organization organization child
+<fb:organization.organization.date_founded>	organization organization date founded
+<fb:organization.organization.founders>	organization organization founders
+<fb:organization.organization.geographic_scope>	organization organization geographic scope
+<fb:organization.organization.headquarters>	organization organization headquarters
+<fb:organization.organization.leadership>	organization organization leadership
+<fb:organization.organization.parent>	organization organization parent
+<fb:organization.organization.place_founded>	organization organization place founded
+<fb:organization.organization.spun_off_from>	organization organization spun off from
+<fb:organization.organization_board_membership.member>	organization organization board membership member
+<fb:organization.organization_founder.organizations_founded>	organization organization founder organizations founded
+<fb:organization.organization_member.member_of>	organization organization member member of
+<fb:organization.organization_membership.from>	organization organization membership from
+<fb:organization.organization_membership.member>	organization organization membership member
+<fb:organization.organization_membership.organization>	organization organization membership organization
+<fb:organization.organization_relationship.child>	organization organization relationship child
+<fb:organization.organization_relationship.parent>	organization organization relationship parent
+<fb:organization.organization_spin_off.parent_company>	organization organization spin off parent company
+<fb:people.appointee.position>	people appointee position
+<fb:people.appointment.appointed_by>	people appointment appointed by
+<fb:people.appointment.appointed_role>	people appointment appointed role
+<fb:people.deceased_person.cause_of_death>	people deceased person cause of death
+<fb:people.deceased_person.date_of_death>	people deceased person date of death
+<fb:people.deceased_person.place_of_burial>	people deceased person place of burial
+<fb:people.deceased_person.place_of_death>	people deceased person place of death
+<fb:people.ethnicity.geographic_distribution>	people ethnicity geographic distribution
+<fb:people.ethnicity.included_in_group>	people ethnicity included in group
+<fb:people.ethnicity.includes_groups>	people ethnicity includes groups
+<fb:people.ethnicity.languages_spoken>	people ethnicity languages spoken
+<fb:people.family.country>	people family country
+<fb:people.family.members>	people family members
+<fb:people.marriage.from>	people marriage from
+<fb:people.marriage.location_of_ceremony>	people marriage location of ceremony
+<fb:people.marriage.spouse>	people marriage spouse
+<fb:people.person.children>	people person children
+<fb:people.person.date_of_birth>	people person date of birth
+<fb:people.person.education>	people person education
+<fb:people.person.employment_history>	people person employment history
+<fb:people.person.ethnicity>	people person ethnicity
+<fb:people.person.nationality>	people person nationality
+<fb:people.person.parents>	people person parents
+<fb:people.person.place_of_birth>	people person place of birth
+<fb:people.person.places_lived>	people person places lived
+<fb:people.person.profession>	people person profession
+<fb:people.person.quotations>	people person quotations
+<fb:people.person.religion>	people person religion
+<fb:people.person.sibling_s>	people person sibling s
+<fb:people.person.spouse_s>	people person spouse s
+<fb:people.place_lived.location>	people place lived location
+<fb:people.sibling_relationship.sibling>	people sibling relationship sibling
+<fb:periodicals.newspaper_circulation_area.newspapers>	periodicals newspaper circulation area newspapers
+<fb:religion.deity.deity_of>	religion deity deity of
+<fb:religion.religion.beliefs>	religion religion beliefs
+<fb:religion.religion.deities>	religion religion deities
+<fb:religion.religion.founding_figures>	religion religion founding figures
+<fb:religion.religion.holidays>	religion religion holidays
+<fb:religion.religion.is_part_of>	religion religion is part of
+<fb:religion.religion.practices>	religion religion practices
+<fb:religion.religion.texts>	religion religion texts
+<fb:religion.religion.types_of_places_of_worship>	religion religion types of places of worship
+<fb:religion.religious_organization.leaders>	religion religious organization leaders
+<fb:royalty.kingdom.rulers>	royalty kingdom rulers
+<fb:royalty.monarch.kingdom>	royalty monarch kingdom
+<fb:royalty.noble_person.titles>	royalty noble person titles
+<fb:royalty.noble_title_tenure.noble_title>	royalty noble title tenure noble title
+<fb:soccer.football_player.position_s>	soccer football player position s
+<fb:soccer.football_team_management_tenure.team>	soccer football team management tenure team
+<fb:soccer.football_team_manager.team>	soccer football team manager team
+<fb:sports.competitor_competition_relationship.competitors>	sports competitor competition relationship competitors
+<fb:sports.defunct_sports_team.later_known_as>	sports defunct sports team later known as
+<fb:sports.drafted_athlete.drafted>	sports drafted athlete drafted
+<fb:sports.pro_athlete.career_start>	sports pro athlete career start
+<fb:sports.pro_athlete.sports_played_professionally>	sports pro athlete sports played professionally
+<fb:sports.pro_athlete.teams>	sports pro athlete teams
+<fb:sports.pro_sports_played.career_end>	sports pro sports played career end
+<fb:sports.pro_sports_played.career_start>	sports pro sports played career start
+<fb:sports.pro_sports_played.sport>	sports pro sports played sport
+<fb:sports.professional_sports_team.draft_picks>	sports professional sports team draft picks
+<fb:sports.professional_sports_team.owner_s>	sports professional sports team owner s
+<fb:sports.sport_country.athletic_performances>	sports sport country athletic performances
+<fb:sports.sports_award.award>	sports sports award award
+<fb:sports.sports_award.award_winner>	sports sports award award winner
+<fb:sports.sports_award.season>	sports sports award season
+<fb:sports.sports_award_type.winners>	sports sports award type winners
+<fb:sports.sports_award_winner.awards>	sports sports award winner awards
+<fb:sports.sports_championship_event.champion>	sports sports championship event champion
+<fb:sports.sports_league.teams>	sports sports league teams
+<fb:sports.sports_league_draft_pick.draft>	sports sports league draft pick draft
+<fb:sports.sports_league_draft_pick.player>	sports sports league draft pick player
+<fb:sports.sports_league_draft_pick.school>	sports sports league draft pick school
+<fb:sports.sports_league_draft_pick.team>	sports sports league draft pick team
+<fb:sports.sports_league_participation.league>	sports sports league participation league
+<fb:sports.sports_league_participation.team>	sports sports league participation team
+<fb:sports.sports_team.arena_stadium>	sports sports team arena stadium
+<fb:sports.sports_team.championships>	sports sports team championships
+<fb:sports.sports_team.coaches>	sports sports team coaches
+<fb:sports.sports_team.colors>	sports sports team colors
+<fb:sports.sports_team.founded>	sports sports team founded
+<fb:sports.sports_team.league>	sports sports team league
+<fb:sports.sports_team.location>	sports sports team location
+<fb:sports.sports_team.previously_known_as>	sports sports team previously known as
+<fb:sports.sports_team.roster>	sports sports team roster
+<fb:sports.sports_team.sport>	sports sports team sport
+<fb:sports.sports_team.team_mascot>	sports sports team team mascot
+<fb:sports.sports_team.venue>	sports sports team venue
+<fb:sports.sports_team_coach.teams_coached>	sports sports team coach teams coached
+<fb:sports.sports_team_coach_tenure.coach>	sports sports team coach tenure coach
+<fb:sports.sports_team_coach_tenure.team>	sports sports team coach tenure team
+<fb:sports.sports_team_location.teams>	sports sports team location teams
+<fb:sports.sports_team_owner.teams_owned>	sports sports team owner teams owned
+<fb:sports.sports_team_roster.from>	sports sports team roster from
+<fb:sports.sports_team_roster.player>	sports sports team roster player
+<fb:sports.sports_team_roster.position>	sports sports team roster position
+<fb:sports.sports_team_roster.team>	sports sports team roster team
+<fb:sports.sports_team_roster.to>	sports sports team roster to
+<fb:sports.team_venue_relationship.venue>	sports team venue relationship venue
+<fb:symbols.flag_referent.flag>	symbols flag referent flag
+<fb:symbols.flag_use.flag>	symbols flag use flag
+<fb:symbols.name_source.namesakes>	symbols name source namesakes
+<fb:symbols.namesake.named_after>	symbols namesake named after
+<fb:tennis.tennis_player.year_turned_pro>	tennis tennis player year turned pro
+<fb:tennis.tennis_tournament_champion.tennis_titles>	tennis tennis tournament champion tennis titles
+<fb:tennis.tennis_tournament_championship.year>	tennis tennis tournament championship year
+<fb:theater.play.date_of_first_performance>	theater play date of first performance
+<fb:time.event.end_date>	time event end date
+<fb:time.event.includes_event>	time event includes event
+<fb:time.event.locations>	time event locations
+<fb:time.event.people_involved>	time event people involved
+<fb:time.event.start_date>	time event start date
+<fb:time.holiday.day_of_year>	time holiday day of year
+<fb:time.recurring_event.current_frequency>	time recurring event current frequency
+<fb:time.recurring_event.date_of_first_occurance>	time recurring event date of first occurance
+<fb:time.recurring_event.instances>	time recurring event instances
+<fb:time.time_zone.locations_in_this_time_zone>	time time zone locations in this time zone
+<fb:transportation.bridge.locale>	transportation bridge locale
+<fb:travel.tourist_attraction.near_travel_destination>	travel tourist attraction near travel destination
+<fb:travel.transportation.mode_of_transportation>	travel transportation mode of transportation
+<fb:travel.transportation.transport_terminus>	travel transportation transport terminus
+<fb:travel.travel_destination.accommodation>	travel travel destination accommodation
+<fb:travel.travel_destination.how_to_get_here>	travel travel destination how to get here
+<fb:travel.travel_destination.tourist_attractions>	travel travel destination tourist attractions
+<fb:tv.regular_tv_appearance.actor>	tv regular tv appearance actor
+<fb:tv.regular_tv_appearance.character>	tv regular tv appearance character
+<fb:tv.regular_tv_appearance.from>	tv regular tv appearance from
+<fb:tv.regular_tv_appearance.seasons>	tv regular tv appearance seasons
+<fb:tv.regular_tv_appearance.series>	tv regular tv appearance series
+<fb:tv.regular_tv_appearance.to>	tv regular tv appearance to
+<fb:tv.tv_actor.guest_roles>	tv tv actor guest roles
+<fb:tv.tv_actor.starring_roles>	tv tv actor starring roles
+<fb:tv.tv_character.appeared_in_tv_episodes>	tv tv character appeared in tv episodes
+<fb:tv.tv_character.appeared_in_tv_program>	tv tv character appeared in tv program
+<fb:tv.tv_guest_role.actor>	tv tv guest role actor
+<fb:tv.tv_guest_role.episodes_appeared_in>	tv tv guest role episodes appeared in
+<fb:tv.tv_location.tv_shows_filmed_here>	tv tv location tv shows filmed here
+<fb:tv.tv_network_duration.network>	tv tv network duration network
+<fb:tv.tv_personality.tv_regular_appearances>	tv tv personality tv regular appearances
+<fb:tv.tv_producer.programs_produced>	tv tv producer programs produced
+<fb:tv.tv_producer_term.program>	tv tv producer term program
+<fb:tv.tv_program.original_network>	tv tv program original network
+<fb:tv.tv_program.program_creator>	tv tv program program creator
+<fb:tv.tv_program.regular_cast>	tv tv program regular cast
+<fb:tv.tv_program.theme_song>	tv tv program theme song
+<fb:tv.tv_regular_personal_appearance.appearance_type>	tv tv regular personal appearance appearance type
+<fb:tv.tv_series_season.regular_cast>	tv tv series season regular cast
+<fb:visual_art.artwork.art_form>	visual art artwork art form
+<fb:visual_art.artwork.art_genre>	visual art artwork art genre
+<fb:visual_art.artwork.locations>	visual art artwork locations
+<fb:visual_art.artwork_location_relationship.location>	visual art artwork location relationship location
+<fb:visual_art.visual_artist.art_forms>	visual art visual artist art forms
+<fb:visual_art.visual_artist.artworks>	visual art visual artist artworks
+<fb:visual_art.visual_artist.associated_periods_or_movements>	visual art visual artist associated periods or movements

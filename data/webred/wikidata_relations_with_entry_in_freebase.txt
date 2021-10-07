@@ -1,0 +1,135 @@
+academic degree	P512	1	1
+airline hub	P113	22	1
+architect	P84	65	1
+architectural style	P149	9	1
+atomic number	P1086	106	1
+author	P50	525	3
+award received	P166	173	3
+based on	P144	32	1
+board member	P3320	18	1
+cast member	P161	601	7
+child	P40	270	1
+child astronomical body	P398	66	1
+composer	P86	130	2
+conflict	P607	155	2
+connecting line	P81	62	1
+constellation	P59	6	1
+contains administrative territorial entity	P150	5254	2
+country	P17	20277	13
+country for sport	P1532	240	3
+country of citizenship	P27	3894	4
+country of origin	P495	593	5
+creator	P170	226	4
+crew member	P1029	11	1
+crosses	P177	28	1
+currency	P38	9	2
+date of birth	P569	641	2
+date of death	P570	364	1
+date of first performance	P1191	4	1
+date of official opening	P1619	21	1
+decays to	P816	2	1
+designed by	P287	49	1
+developer	P178	365	1
+director	P57	266	2
+director of photography	P344	2	1
+discoverer or inventor	P61	54	5
+distributor	P750	52	1
+duration	P2047	4	2
+edition or translation of	P629	5	1
+educated at	P69	458	2
+electronegativity	P1108	96	1
+employer	P108	580	1
+end time	P582	31	10
+ethnic group	P172	118	1
+executive producer	P1431	27	1
+family	P53	50	2
+father	P22	195	1
+film crew member	P3092	1	1
+film editor	P1040	14	1
+filming location	P915	15	1
+followed by	P156	346	3
+follows	P155	291	3
+for work	P1686	1	2
+founded by	P112	411	1
+genre	P136	24	8
+has edition	P747	5	1
+has part	P527	1296	2
+headquarters location	P159	2510	1
+height	P2048	6	2
+heritage designation	P1435	11	2
+home venue	P115	67	1
+inception	P571	370	4
+influenced by	P737	182	1
+instance of	P31	204	12
+instrument	P1303	3	1
+language of work or name	P407	136	1
+league	P118	451	1
+legal form	P1454	2	1
+licensed to broadcast to	P1408	26	1
+located in the administrative territorial entity	P131	10088	3
+located in time zone	P421	2	1
+located on astronomical location	P376	46	1
+located on terrain feature	P706	221	1
+location	P276	390	5
+location of discovery	P189	2	1
+lyrics by	P676	72	1
+main subject	P921	50	2
+manufacturer	P176	181	2
+mass	P2067	12	2
+material used	P186	9	1
+member of	P463	716	1
+member of political party	P102	797	1
+member of sports team	P54	1662	2
+military branch	P241	68	2
+mother	P25	77	1
+mouth of the watercourse	P403	66	1
+named after	P138	246	1
+noble title	P97	19	2
+nominated for	P1411	43	3
+notable work	P800	312	2
+number of episodes	P1113	13	1
+number of seasons	P2437	43	1
+occupation	P106	21	1
+officeholder	P1308	11	1
+original language of film or TV show	P364	66	3
+original network	P449	218	1
+parent astronomical body	P397	66	1
+parent organization	P749	388	3
+parent taxon	P171	357	1
+part of	P361	1122	2
+part of the series	P179	111	6
+participant	P710	125	7
+partner	P451	130	1
+performer	P175	669	3
+place of birth	P19	877	1
+place of burial	P119	61	1
+place of death	P20	592	1
+place of publication	P291	76	2
+platform	P400	75	2
+point in time	P585	75	13
+political ideology	P1142	15	1
+population	P1082	19	1
+position held	P39	69	3
+position played on team / speciality	P413	5	5
+producer	P162	153	4
+production company	P272	80	1
+publication date	P577	193	9
+publisher	P123	131	2
+record label	P264	89	2
+religion	P140	231	1
+residence	P551	177	2
+said to be the same as	P460	33	1
+screenwriter	P58	193	3
+sibling	P3373	164	1
+spin quantum number	P1122	32	1
+sport	P641	56	3
+spouse	P26	862	2
+start time	P580	34	11
+stock exchange	P414	54	1
+subclass of	P279	317	8
+subsidiary	P355	317	2
+time of discovery or invention	P575	13	1
+unemployment rate	P1198	441	1
+vessel class	P289	1	1
+width	P2049	5	1
+winner	P1346	75	3
