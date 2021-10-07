@@ -1,0 +1,6 @@
+torch==1.4.0
+transformers==4.3.3
+tqdm==4.58.0
+numpy==1.19.2
+tensorboardX==2.1
+matplotlib==3.3.4

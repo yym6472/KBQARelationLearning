@@ -1,0 +1,14 @@
+/data
+/output
+/tmp
+/trash
+/bert-base-uncased
+/roberta-base
+__pycache__
+*.pyc
+.ipynb_checkpoints
+results.md
+print_results.py
+show_results.ipynb
+make_figures
+final_output
