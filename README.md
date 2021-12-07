@@ -45,4 +45,11 @@ Run the scripts in `scripts` folder.
 
 ## Citation
 ```
+@inproceedings{yan2021large,
+  title={Large-Scale Relation Learning for Question Answering over Knowledge Bases with Pre-trained Language Models},
+  author={Yan, Yuanmeng and Li, Rumei and Wang, Sirui and Zhang, Hongzhi and Daoguang, Zan and Zhang, Fuzheng and Wu, Wei and Xu, Weiran},
+  booktitle={Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing},
+  pages={3653--3660},
+  year={2021}
+}
 ```
