@@ -1,6 +1,6 @@
 # KBQARelationLearning
 
-Code for our EMNLP 2021 paper - [Large-Scale Relation Learning for Question Answering over Knowledge Bases with Pre-trained Language Models]()
+Code for our EMNLP 2021 paper - [Large-Scale Relation Learning for Question Answering over Knowledge Bases with Pre-trained Language Models](https://aclanthology.org/2021.emnlp-main.296/)
 
 ## Requirements
 
