@@ -55,7 +55,7 @@ Note: we create special tokens by modifying the `vocab.txt` of the pre-trained B
 [unused7] -> [start of tail entity]
 [unused8] -> [end of tail entity]
 ```
-To reproduce the experimental results, you should as well modified the `vocab.txt` of your pre-downloaded BERT (e.g., in `./bert-base-uncased/vocab.txt`).
+To reproduce the experimental results, you should as well modify the `vocab.txt` of your pre-downloaded BERT (e.g., in `./bert-base-uncased/vocab.txt`).
 
 ## Citation
 ```
