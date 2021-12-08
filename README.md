@@ -43,6 +43,20 @@ For Relation Reasoning (RR) task, we modified the [script from BERTRL](https://g
 
 Run the scripts in `scripts` folder.
 
+Note: we create special tokens by modifying the `vocab.txt` of the pre-trained BERT as following:
+```
+[unused0] -> [unknown entity]
+[unused1] -> [path separator]
+[unused2] -> [start of entity]
+[unused3] -> [end of entity]
+[unused4] -> [self]
+[unused5] -> [start of head entity]
+[unused6] -> [end of head entity]
+[unused7] -> [start of tail entity]
+[unused8] -> [end of tail entity]
+```
+To reproduce the experimental results, you should as well modified the `vocab.txt` of your pre-downloaded BERT (e.g., in `./bert-base-uncased/vocab.txt`).
+
 ## Citation
 ```
 @inproceedings{yan2021large,
